@@ -21,6 +21,19 @@ $ git status
 $ git push origin master
 ```
 
+## `git clone`으로 프로젝트 시작하기
+
+```shell
+$ get clone "paste url"
+$ touch README.md
+$ git commit -m "commit message"
+$ git status
+$ git add README.md
+$ git status
+$ git push origin master
+
+```
+
 ## 우리가 마크다운을 쓰는 이유
 
 `<h1></h1>` ->`#`
